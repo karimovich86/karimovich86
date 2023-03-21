@@ -10,7 +10,19 @@ Some keywords that I should remember for later are:
 - repository,
 - commit and hash.
 
-The next 3 months will be a very exciting time, as I will learn new things every day.
+my hobbys are :
+- music
+- youtube videos 
+- sports 
+
+languages:
+
+- French
+- Arabic
+- german
+- english
+
+I wish that the next 3 months will be very exciting, as I will learn new things every day.
 
 Here's our logo:
 
