@@ -24,7 +24,7 @@ languages:
 
 I wish that the next 3 months will be very exciting, as I will learn new things every day.
 
-Here's our logo:
+Here's my logo:
 
 
 ![logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
